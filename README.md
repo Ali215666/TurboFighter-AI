@@ -72,10 +72,10 @@ When connected correctly, the bot predicts actions frame-by-frame from live game
 ## Gameplay Screenshots
 
 ### Match Snapshot 1
-![TurboFighter AI gameplay screenshot 1](assets/gameplay/gameplay-1.png)
+![TurboFighter AI gameplay screenshot 1](assets/gameplay/Gameplay1.png)
 
 ### Match Snapshot 2
-![TurboFighter AI gameplay screenshot 2](assets/gameplay/gameplay-2.png)
+![TurboFighter AI gameplay screenshot 2](assets/gameplay/Gameplay2.png)
 
 
 
